@@ -5,7 +5,8 @@ Once the API returns a list of potentially matching hashes, the script compares 
 
 The script is designed to read passwords from a text file, making it easy to check multiple passwords at once. If a password has been found in a breach, the user is alerted to change it; otherwise, they receive a message confirming the password's safety. This provides a simple yet powerful tool for maintaining online security without compromising user privacy.
 
-**Instructions**
+# Instructions
+
 Download both files and open in any code editor youd like
 Enter your password in passwords.txt, and save
 Run Checkmypass.py, and see if your password has ever been leaked before!
