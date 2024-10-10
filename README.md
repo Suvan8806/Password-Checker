@@ -9,7 +9,7 @@ The script features a user-friendly graphical interface built using Tkinter, mak
 
 
 # Instructions
-1. Download passwordcheckerwithgui
+1. Download passwordcheckerwithgui.py
 2. Enter your password in the GUI and click the "Check Password" button.
 3. If your password has been found in a breach, you will be alerted to change it; otherwise, you will receive a message confirming the password's safety.
    
