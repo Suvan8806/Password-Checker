@@ -5,6 +5,9 @@ Once the API returns a list of potentially matching hashes, the script compares 
 
 The script features a user-friendly graphical interface built using Tkinter, making it easy to input passwords and receive immediate feedback. Users can enter their passwords directly into the GUI, which then checks for breaches and displays the results clearly. This provides a simple yet powerful tool for maintaining online security without compromising user privacy.
 
+![image](https://github.com/user-attachments/assets/b95d831d-b63c-4659-911b-6c3b210d74dc)
+
+
 # Instructions
 1. Download passwordcheckerwithgui
 2. Enter your password in the GUI and click the "Check Password" button.
