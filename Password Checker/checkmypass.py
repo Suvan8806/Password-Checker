@@ -38,17 +38,13 @@ def main(args): #takes in ur password input
     for password in args:
         count = pwned_api_check(password) #gets count
         if count:
-
             #print(f'Your password was found {count} number of times, you should probably change your password!')
             #if you dont want it to print your password, uncomment the line above and comment the line below
             print(f'{password} was found {count} number of times, you should probably change your password!')
- 
         else:
-
             #print(f'Your password was not found, good job!')
             #if you dont want it to print your password, uncomment the line above and comment the line below
             print(f'{password} was not found, good job!')
-
     return 'Done!'
 
 def read_passwords_from_file(filename):
